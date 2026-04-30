@@ -14,9 +14,9 @@ playwright install
 ## How to Run
 Use this command to run the test:
 
-python image_preview_test.py --url "https://www.pixelssuite.com/convert-to-png" --slow-mo-ms 2000
+python test_automation.py --url "https://www.pixelssuite.com/convert-to-png" --slow-mo-ms 2000
 
-python image_preview_test-py  
+python test_automation.py 
 
 ## Results
 The test saves results to execution_results.csv and puts 
