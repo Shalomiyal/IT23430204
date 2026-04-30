@@ -7,7 +7,7 @@ import sys
 import csv
 
 
-DEFAULT_URL = "https://www.pixelssuite.com/convert-to-png"
+DEFAULT_URL = "https://www.pixelssuite.com/image-to-pdf"
 DEFAULT_TIMEOUT_MS = 60000
 DEFAULT_SLOW_MO_MS = 0
 
